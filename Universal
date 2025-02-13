@@ -2,7 +2,7 @@
 -- Made by Gi#7331
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "Tips!",
+                Title = "Wait!",
                 Text = "Wait 1 - 15 seconds to show gui if it don't show try execute again",
                  Duration = 15})
 
